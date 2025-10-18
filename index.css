@@ -1,0 +1,21 @@
+
+.hero {
+  background-color: #ffffff;
+  text-decoration-color: #ffffff;
+  padding: 50px 0;
+  text-align: center;
+}h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+  color: #000000;
+}
+p {
+  font-size: 20px;
+  color: #0f0f0f;
+  margin-bottom: 30px;
+}
+.a .hero-button {
+.cards h3{
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgb(169, 147, 211);
+}
